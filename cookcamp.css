@@ -57,7 +57,7 @@ nav section h2, .top h2,.middle h2, .bottom h2{
     padding-left: 32px;
     background-color: #99bb22;
     border-radius: 16px;
-    background-image: url(./images/icon/dish.png) ;
+    background-image: url(./icon/dish.png) ;
     background-position: 10px 5px ;
     background-repeat: no-repeat;
     margin-top: 0px;
@@ -74,7 +74,7 @@ nav section a{
     display: block;
     line-height: 40px;
     padding-left: 20px;
-    background-image: url(./images/icon/arrow.png) ;
+    background-image: url(./icon/arrow.png) ;
     background-position: 2px 12px ;
     background-repeat: no-repeat;
     background-color: white;
@@ -137,7 +137,7 @@ airticle{
     color: #fc8833;
     text-align: right;
     display: block;
-    background-image: url(./images/icon/arrow.png) ;
+    background-image: url(./icon/arrow.png) ;
     background-position: 470px center ;
     background-repeat: no-repeat;
     background-color: white;
